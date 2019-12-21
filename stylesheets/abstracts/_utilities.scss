@@ -1,0 +1,24 @@
+.bg-dark {
+    background-color: rgb(20, 21, 39);
+}
+
+.text-white {
+    color: white;
+
+    &:hover {
+        color: white;
+    }
+}
+
+.text-light {
+    color: rgb(230, 230, 230);
+
+    &:hover {
+        color: rgb(230, 230, 230);
+    }
+}
+
+.text-link {
+    color: rgb(62, 107, 255);
+    font-weight: 400;
+}
